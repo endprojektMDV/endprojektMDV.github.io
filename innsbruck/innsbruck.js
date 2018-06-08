@@ -3,11 +3,12 @@ let myMap = L.map("mapdiv", {
     fullscreenControl: true
 }) 
 
-
-
 const heime = L.featureGroup();
 const lokale = L.featureGroup();
 const uni = L.featureGroup();
+
+const sport = L.markerClusterGroup();
+
 myLayers = {    
     osm : L.tileLayer ( 
         "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
@@ -34,8 +35,9 @@ let myMapControl = L.control.layers({
     
 },{
    "Studentenheime" :  heime,
-   "Studentenlokale" :  lokale,
-   "Unistandorte" :  uni
+   "Bars & Ausgehmöglichkeiten" :  lokale,
+   "Unistandorte" :  uni,
+   "Sportanlagen" : sport
 },
 {collapsed:false  
 }
@@ -90,7 +92,7 @@ L.geoJSON(studentenlokale, {
 }).addTo(lokale).bindPopup(function(layer) {
        
     const props = layer.feature.properties
-        const popupText = `<h3>${props.name}</h3>`;
+        const popupText = `<h3>${props.name}</h3><img src="${props.bild}"  height="140" width="200"> `;
         return popupText;
         });
 
@@ -110,6 +112,30 @@ L.geoJSON(unistandorte, {
 }).addTo(uni).bindPopup(function(layer) {
        
         const props = layer.feature.properties
-        const popupText = `<h3>${props.Bezeichnung}</h3> `;
+        const popupText = `<h3>${props.Bezeichnung}</h3><a target="_blank" href="${props.Link}">Link</a> `;
         return popupText;
         });
+
+
+let geoJsonLayer = L.geoJSON(sportanlagen,  {
+    onEachFeature: function (feature, layer) {
+        layer.bindPopup(function(layer) {
+       
+            const props = layer.feature.properties
+            const popupText = `<h3>${props.Typ}</h3><p3>${props.Anlage}</p> `;
+            return popupText;
+            });
+    },
+    pointToLayer: function(geoJsonPoint, latlng){
+        return L.marker(latlng, {
+       icon: L.icon({
+            iconUrl: "images/sport_icon.png",
+            iconAnchor: [15, 35],
+            popupAnchor: [1, -30]
+        })
+   });
+} 
+});
+
+sport.addLayer(geoJsonLayer);
+

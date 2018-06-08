@@ -13,6 +13,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "Cafe Bar Moustache",
+                "bild": "https://www.innsbruck.info/emobilder/x/12764/moustache-2.jpg",
                 "styleUrl": "#icon-1899-0288D1-nodesc",
                 "styleHash": "-258dc051",
                 "styleMapHash": {
@@ -34,6 +35,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "Little Rock",
+                "bild": "https://www.innsbruck.info/emobilder/x/32994/bar.jpg",
                 "styleUrl": "#icon-1899-0288D1-nodesc",
                 "styleHash": "-258dc051",
                 "styleMapHash": {
@@ -55,6 +57,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "Café Bar Dinzler",
+                "bild": "https://www.innsbruck.info/emobilder/1000cx550c/13238/Bild_01.jpg",
                 "styleUrl": "#icon-1899-0288D1-nodesc",
                 "styleHash": "-258dc051",
                 "styleMapHash": {
@@ -76,6 +79,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "The 5th Floor im Penz Hotel",
+                "bild": "https://www.innsbruck.info/emobilder/1000cx550c/15580/Bild_01.jpg",
                 "styleUrl": "#icon-1899-0288D1-nodesc",
                 "styleHash": "-258dc051",
                 "styleMapHash": {
@@ -97,6 +101,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "Jellyfish Music.Bar",
+                "bild": "https://www.innsbruck.info/emobilder/1000cx550c/23267/Jellyfish-01.jpg",
                 "styleUrl": "#icon-1899-0288D1-nodesc",
                 "styleHash": "-258dc051",
                 "styleMapHash": {
@@ -118,6 +123,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "Hofgarten Cafe & Restaurant",
+                "bild": "https://www.innsbruck.info/emobilder/1000cx550c/14379/Hofgarten.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
                 "styleMapHash": {
@@ -139,6 +145,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "Zappa Music Bar",
+                "bild": "https://media-cdn.tripadvisor.com/media/photo-s/0d/fd/2b/0e/ta-img-20161121-185325.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
                 "styleMapHash": {
@@ -160,6 +167,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "JIMMY’S INNSBRUCK",
+                "bild": "https://www.innsbruck.info/emobilder/1000cx550c/32820/jimmys.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
                 "styleMapHash": {
@@ -181,6 +189,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "La Copa – La Cabana",
+                "bild": "https://www.innsbruck.info/emobilder/1000cx550c/11846/copa-cabana.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
                 "styleMapHash": {
@@ -202,6 +211,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "Tante Emma Club",
+                "bild": "https://www.innsbruck.info/emobilder/1000cx550c/16909/Tante-Emma.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
                 "styleMapHash": {
@@ -223,6 +233,7 @@ const studentenlokale = {
             },
             "properties": {
                 "name": "p.m.k.",
+                "bild": "http://pmk.or.at/files/imagecache/Vorschau256/pictures/outside1.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
                 "styleMapHash": {
