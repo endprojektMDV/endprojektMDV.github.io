@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="outdooractive - http://www.outdooractive.com">
+    <metadata>
+        <name>Salzburg auf den Spuren Mozarts</name>
+        <author>
+            <name>Wolfgang Brendel - Traumwanderungen.de</name>
+        </author>
+        <time>2018-04-04T11:54:00</time>
+    </metadata>
+    <wpt lat="47.80018" lon="13.04447">
+        <ele>421</ele>
+        <name>SPERL seit 1564</name>
+        <desc>Hier gibt es seit fast 500 Jahren Handschuhe und Hüte, sowie Regenbekleidung und Schirme (für Salzburg oft notwendig!)</desc>
+        <src>alpstein.21430.24387914</src>
+        <type>Bekleidung</type>
+    </wpt>
+    <wpt lat="47.8000494" lon="13.043575099999998">
+        <ele>421</ele>
+        <name>Mozarts Geburtshaus</name>
+        <desc>Hier wurde am 27. Jänner 1756 Wolfgang Amadeus Mozart geboren. Die Ausstellungsräume laden den Besucher in die Wohnung der Familie Mozart ein und dokumentieren das Wohnen in Salzburg zur Mozartzeit. Ausgestellt sind u.a. Originalinstrumente Mozarts, Portraits und Briefe.</desc>
+        <src>alpstein.21430.23955220</src>
+        <link href="http://www.mozarteum.at"/>
+        <type>Museum</type>
+    </wpt>
+    <wpt lat="47.800007" lon="13.042192">
+        <ele>422</ele>
+        <name>Getreidegasse </name>
+        <src>alpstein.21430.23296474</src>
+        <type>Fußgängerzone</type>
+    </wpt>
+    <wpt lat="47.799831" lon="13.041311">
+        <ele>422</ele>
+        <name>Balkan-Grill</name>
+        <desc>Der 1. Salzburger Bosna-Stand hat angeblich die besten bosnischen Würste in der Semmel. Zumindest der Andrang ist enorm!</desc>
+        <src>alpstein.21430.24387691</src>
+        <type>Imbiss</type>
+    </wpt>
+    <wpt lat="47.8008641" lon="13.039002600000003">
+        <ele>437</ele>
+        <name>Mönchsbergaufzug</name>
+        <desc>Der MönchsbergAufzug bringt Sie in nur 30 Sekunden auf den beliebten Stadtberg. Genießen Sie dort die einmalige Aussicht über die Dächer von Salzburg, das Museum der Moderne, das Restaurant m32, den WasserSpiegel – die Wasserwelt der Salzburg AG und die vielen Spazierwege im Naturschutzgebiet.</desc>
+        <src>alpstein.21430.23757201</src>
+        <link href="http://www.moenchsbergaufzug.at"/>
+        <type>Aussichtspunkt</type>
+    </wpt>
+    <wpt lat="47.800588" lon="13.039194">
+        <ele>424</ele>
+        <name>Gstättentor</name>
+        <desc>Das Gstättentor, auch Schleifertor genannt, bildete eines der drei Haupttore der Stadt. Außerhalb des Tores führte im Mittelalter eine Zugbrücke über einen dort angelegten tiefen Stadtgraben, der nach etwa 1350 auch vom Wasser des Almkanales durchflossen war.</desc>
+        <src>alpstein.21430.24383459</src>
+        <type>Historische Stätte</type>
+    </wpt>
+    <wpt lat="47.80111364184925" lon="13.038239479064941">
+        <ele>485</ele>
+        <name>Museum der Moderne Salzburg - Mönchsberg</name>
+        <desc>Das Museum der Moderne Salzburg auf dem Mönchsberg – moderne Kunst in einem zeitgenössischem Rahmen auf dem Mönchsberg Das Museum der Moderne Salzburg im Rupertinum – ein barockes Haus für neue künstlerische Konzepte mitten in der Altstadt Das Museum der Moderne Salzburg auf dem Mönchsberg liegt an exponierter Stelle über der Altstadt und präsentiert sich als neue, zeitgemäße Architektur für Ausstellungen größeren Zuschnitts und Sammlungspräsentationen in internationalem Zusammenhang.</desc>
+        <src>alpstein.21430.23757192</src>
+        <link href="http://www.museumdermoderne.at"/>
+        <type>Museum</type>
+    </wpt>
+    <wpt lat="47.799408" lon="13.040408">
+        <ele>423</ele>
+        <name>Die Pferdeschwemme</name>
+        <desc>Der Rossebändiger, ein sich aufbäumendes Pferd bändigend, befindet sich in der Mitte der Schwemme. Die Skulpturengruppe wurde 1695 geschaffen und ist ein frühes Hauptwerk von Michael Bernhard Mandl. Das Motiv des Pferdebändigers ist ein in der Barockzeit häufig dargestelltes Motiv, das den Wettstreit der Leidenschaft mit der überkommenen (aristokratischen) Ordnung symbolisiert.</desc>
+        <src>alpstein.21430.24383521</src>
+        <type>Historische Stätte</type>
+    </wpt>
+    <wpt lat="47.7984506" lon="13.041820099999995">
+        <ele>0</ele>
+        <name>Festspielhäuser</name>
+        <desc>Festspielbezirk Das Große Festspielhaus, das Haus für Mozart und die Felsenreitschule bilden zusammen mit dem 200 Meter entfernt gelegenen Domplatz und der Kollegienkirche den Festspielbezirk. 1606/07 ließ Erzbischof Wolf Dietrich hier Stallungen erbauen, die 1662 um eine Winterreitschule erweitert wurden. Im 19. Jahrhundert diente der Komplex als Kavalleriekaserne, ehe er ab 1925 schrittweise den Salzburger Festspielen geöffnet wurde. Unser Rundgang führt Sie durch die Foyers, die Zuschauerräume und über die Bühnen des Großen Festspielhauses, des Haus für Mozart und der Felsenreitschule (Besichtigung nur im Rahmen einer Führung).</desc>
+        <src>alpstein.21430.23757244</src>
+        <link href="http://www.salzburgerfestspiele.at/führungen"/>
+        <type>Oper</type>
+    </wpt>
+    <wpt lat="47.79820179540084" lon="13.044235879169719">
+        <ele>424</ele>
+        <name>Franziskanerkirche</name>
+        <src>alpstein.21430.23330360</src>
+        <link href="http://www.franziskanerkirche-salzburg.at"/>
+        <type>Kirche</type>
+    </wpt>
+    <wpt lat="47.799099" lon="13.043109">
+        <ele>423</ele>
+        <name>Kollegienkirche (Universitätskirche)</name>
+        <desc>Schon unter Paris Lodron war eine solche Kirche geplant, wegen verschiedener Schwierigkeiten konnte sie aber erst in den Jahren 1696 bis 1707 erbaut werden.1810 verlor die Kirche mit der Auflassung der Universität ihre ursprüngliche Bestimmung, bis sie nach der Wiederbegründung der Fakultäten 1964 wieder zur Universitätskirche wurde.</desc>
+        <src>alpstein.21430.23330365</src>
+        <type>Kirche</type>
+    </wpt>
+    <wpt lat="47.799228" lon="13.044862">
+        <ele>423</ele>
+        <name>Cafe Tomaselli</name>
+        <desc>Hier kann man Zeitung lesen, Kaffee trinken und Kuchen essen, oder einfach das Geschehen um einen herum als Reality-Show begreifen</desc>
+        <src>alpstein.21430.24387900</src>
+        <type>Café</type>
+    </wpt>
+    <wpt lat="47.799375" lon="13.045326">
+        <ele>423</ele>
+        <name>Hofapotheke</name>
+        <desc>Hier gibt es die Weihrauchsalbe für schmerzende Knie, Rheume und manch anderes Zipperlein</desc>
+        <src>alpstein.21430.24387873</src>
+        <type>Apotheke</type>
+    </wpt>
+    <wpt lat="47.79649078217358" lon="13.046089929630398">
+        <ele>432</ele>
+        <name>Festungsbahn Salzburg </name>
+        <desc>Die Bahn ist die älteste, noch in Betrieb befindliche Standseilbahn Österreichs und zählt mit rund 2 Millionen Fahrgäste pro Jahr zu den wichtigsten touristischen Bahnen Österreichs.</desc>
+        <src>alpstein.21430.23324993</src>
+        <link href="https://www.salzburg-ag.at/verkehr/festungsbahn/"/>
+        <type>Bergbahn Talstation</type>
+    </wpt>
+    <wpt lat="47.7983742" lon="13.045723100000032">
+        <ele>424</ele>
+        <name>Residenz zu Salzburg </name>
+        <desc>Ehrfürchtige Bewunderung erfüllt den Besucher auf seinem Rundgang durch die Prunkräume der Residenz zu Salzburg. 200 Jahre Stilgeschichte – von Renaissance über Barock bis zum Klassizismus – spiegeln sich in Kostbarkeiten wie Fresken, Gemälden, Keramiköfen und Uhren wieder. Schon zur Barockzeit zählte der fürsterzbischöfliche Stadtpalais zu den feudalsten Repräsentationsstätten im deutschsprachigen Raum. Heute wie damals gilt: Staunen erlaubt!</desc>
+        <src>alpstein.21430.23303617</src>
+        <link href="http://www.salzburg-burgen.at/de/residenz/index.htm"/>
+        <type>Museum</type>
+    </wpt>
+    <wpt lat="47.79789218033174" lon="13.046312928199768">
+        <ele>424</ele>
+        <name>Dom zu Salzburg</name>
+        <desc>Die barocken Plätze, die ihn umgeben, formen eine einzigartige Bühne, die von den Festspielen genutzt und von der Unesco als Weltkulturerbe gewürdigt wird. Der heutige Dom hatte zwei mittelalterliche Vorgänger, von denen Reste in der Krypta zu sehen sind. Der Grundstein des bestehenden, barocken Domes wurde 1614 gelegt. 1628 wurde er durch Erzbischof Paris Lodron geweiht. Etwa vierzig Jahre später waren die Türme und die umgebenden Plätze vollendet. Der barocke Bau beeindruckt durch seine klaren Formen, den einheitlichen Dekor und die leuchtende Fassade aus heimischem Marmor.</desc>
+        <src>alpstein.21430.23677869</src>
+        <link href="http://www.salzburger-dom.at"/>
+        <type>Kirche</type>
+    </wpt>
+    <wpt lat="47.795039452648126" lon="13.048064410686493">
+        <ele>526</ele>
+        <name>Festungsberg</name>
+        <desc>Der Festungsberg liegt in der Altstadt von Salzburg und ist 542 m hoch. Auf ihm liegt das Wahrzeichen der Stadt, die Festung Hohensalzburg. Der Festungsberg kann zu Fuß oder mit der Festungsbahn erklommen werden.</desc>
+        <src>alpstein.21430.14362360</src>
+        <type>Berggipfel</type>
+    </wpt>
+    <trk>
+        <name>Salzburg auf den Spuren Mozarts</name>
+        <desc>Die Salzburger Altstadt sollte man am Samstag besuchen, wenn auf dem Universitätsplatz Grünmarkt ist. Dort kaufen die Salzburger für's Wochenende ein und man hat den Eindruck, die Stadt hat sich seit Mozarts Zeiten kaum verändert.</desc>
+        <trkseg>
+            <trkpt lat="47.801301" lon="13.044744">
+                <ele>419.10000</ele>
+            </trkpt>
+            <trkpt lat="47.801250" lon="13.044740">
+                <ele>416.90000</ele>
+            </trkpt>
+            <trkpt lat="47.801110" lon="13.044650">
+                <ele>414.50000</ele>
+            </trkpt>
+            <trkpt lat="47.800870" lon="13.044550">
+                <ele>414.50000</ele>
+            </trkpt>
+            <trkpt lat="47.800610" lon="13.044400">
+                <ele>420.50000</ele>
+            </trkpt>
+            <trkpt lat="47.800551" lon="13.044380">
+                <ele>421.60000</ele>
+            </trkpt>
+            <trkpt lat="47.800520" lon="13.044370">
+                <ele>422.20000</ele>
+            </trkpt>
+            <trkpt lat="47.800540" lon="13.044200">
+                <ele>422.10000</ele>
+            </trkpt>
+            <trkpt lat="47.800594" lon="13.043896">
+                <ele>420.90000</ele>
+            </trkpt>
+            <trkpt lat="47.800640" lon="13.043640">
+                <ele>419.90000</ele>
+            </trkpt>
+            <trkpt lat="47.800574" lon="13.043622">
+                <ele>419.90000</ele>
+            </trkpt>
+            <trkpt lat="47.800360" lon="13.043565">
+                <ele>420.0</ele>
+            </trkpt>
+            <trkpt lat="47.800080" lon="13.043490">
+                <ele>421.30000</ele>
+            </trkpt>
+            <trkpt lat="47.800079" lon="13.043508">
+                <ele>421.30000</ele>
+            </trkpt>
+            <trkpt lat="47.800080" lon="13.043490">
+                <ele>421.30000</ele>
+            </trkpt>
+            <trkpt lat="47.800090" lon="13.043270">
+                <ele>421.50000</ele>
+            </trkpt>
+            <trkpt lat="47.800045" lon="13.042615">
+                <ele>422.10000</ele>
+            </trkpt>
+            <trkpt lat="47.800000" lon="13.041960">
+                <ele>421.80000</ele>
+            </trkpt>
+            <trkpt lat="47.799995" lon="13.041315">
+                <ele>421.30000</ele>
+            </trkpt>
+            <trkpt lat="47.799990" lon="13.040707">
+                <ele>421.0</ele>
+            </trkpt>
+            <trkpt lat="47.799990" lon="13.040670">
+                <ele>421.0</ele>
+            </trkpt>
+            <trkpt lat="47.800190" lon="13.040700">
+                <ele>420.10000</ele>
+            </trkpt>
+            <trkpt lat="47.800300" lon="13.040740">
+                <ele>419.60000</ele>
+            </trkpt>
+            <trkpt lat="47.800555" lon="13.040775">
+                <ele>419.60000</ele>
+            </trkpt>
+            <trkpt lat="47.800777" lon="13.040806">
+                <ele>419.60000</ele>
+            </trkpt>
+            <trkpt lat="47.800810" lon="13.040810">
+                <ele>419.60000</ele>
+            </trkpt>
+            <trkpt lat="47.800845" lon="13.040280">
+                <ele>419.50000</ele>
+            </trkpt>
+            <trkpt lat="47.800880" lon="13.039750">
+                <ele>419.60000</ele>
+            </trkpt>
+            <trkpt lat="47.800900" lon="13.039590">
+                <ele>419.70000</ele>
+            </trkpt>
+            <trkpt lat="47.800940" lon="13.039260">
+                <ele>421.10000</ele>
+            </trkpt>
+            <trkpt lat="47.800980" lon="13.039150">
+                <ele>420.90000</ele>
+            </trkpt>
+            <trkpt lat="47.800945" lon="13.039136">
+                <ele>421.40000</ele>
+            </trkpt>
+            <trkpt lat="47.800930" lon="13.039130">
+                <ele>421.60000</ele>
+            </trkpt>
+            <trkpt lat="47.800830" lon="13.039110">
+                <ele>423.40000</ele>
+            </trkpt>
+            <trkpt lat="47.800753" lon="13.039110">
+                <ele>424.60000</ele>
+            </trkpt>
+            <trkpt lat="47.800717" lon="13.037982">
+                <ele>481.13808</ele>
+            </trkpt>
+            <trkpt lat="47.800631" lon="13.038079">
+                <ele>480.96442</ele>
+            </trkpt>
+            <trkpt lat="47.800646" lon="13.039166">
+                <ele>423.90000</ele>
+            </trkpt>
+            <trkpt lat="47.800610" lon="13.039190">
+                <ele>423.40000</ele>
+            </trkpt>
+            <trkpt lat="47.800320" lon="13.039560">
+                <ele>423.40000</ele>
+            </trkpt>
+            <trkpt lat="47.800295" lon="13.039660">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.800270" lon="13.039760">
+                <ele>422.90000</ele>
+            </trkpt>
+            <trkpt lat="47.800250" lon="13.039990">
+                <ele>422.10000</ele>
+            </trkpt>
+            <trkpt lat="47.800045" lon="13.040000">
+                <ele>422.70000</ele>
+            </trkpt>
+            <trkpt lat="47.800020" lon="13.040000">
+                <ele>422.70000</ele>
+            </trkpt>
+            <trkpt lat="47.799970" lon="13.039990">
+                <ele>422.80000</ele>
+            </trkpt>
+            <trkpt lat="47.799890" lon="13.040000">
+                <ele>422.80000</ele>
+            </trkpt>
+            <trkpt lat="47.799800" lon="13.040040">
+                <ele>422.90000</ele>
+            </trkpt>
+            <trkpt lat="47.799685" lon="13.040155">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799660" lon="13.040180">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799640" lon="13.040400">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799630" lon="13.040670">
+                <ele>423.30000</ele>
+            </trkpt>
+            <trkpt lat="47.799660" lon="13.041020">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799670" lon="13.041130">
+                <ele>423.0</ele>
+            </trkpt>
+            <trkpt lat="47.799670" lon="13.041210">
+                <ele>423.0</ele>
+            </trkpt>
+            <trkpt lat="47.799665" lon="13.041246">
+                <ele>423.0</ele>
+            </trkpt>
+            <trkpt lat="47.799662" lon="13.041263">
+                <ele>423.0</ele>
+            </trkpt>
+            <trkpt lat="47.799662" lon="13.041263">
+                <ele>423.0</ele>
+            </trkpt>
+            <trkpt lat="47.799806" lon="13.041308">
+                <ele>422.20000</ele>
+            </trkpt>
+            <trkpt lat="47.799600" lon="13.041246">
+                <ele>423.0</ele>
+            </trkpt>
+            <trkpt lat="47.799621" lon="13.041218">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799621" lon="13.041218">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799485" lon="13.041000">
+                <ele>423.50000</ele>
+            </trkpt>
+            <trkpt lat="47.799310" lon="13.040720">
+                <ele>423.80000</ele>
+            </trkpt>
+            <trkpt lat="47.799274" lon="13.040812">
+                <ele>423.80000</ele>
+            </trkpt>
+            <trkpt lat="47.799220" lon="13.040950">
+                <ele>423.80000</ele>
+            </trkpt>
+            <trkpt lat="47.799060" lon="13.041180">
+                <ele>423.80000</ele>
+            </trkpt>
+            <trkpt lat="47.798952" lon="13.041341">
+                <ele>423.80000</ele>
+            </trkpt>
+            <trkpt lat="47.798840" lon="13.041510">
+                <ele>423.90000</ele>
+            </trkpt>
+            <trkpt lat="47.798650" lon="13.041795">
+                <ele>423.80000</ele>
+            </trkpt>
+            <trkpt lat="47.798460" lon="13.042080">
+                <ele>423.60000</ele>
+            </trkpt>
+            <trkpt lat="47.798260" lon="13.042490">
+                <ele>423.60000</ele>
+            </trkpt>
+            <trkpt lat="47.798140" lon="13.042860">
+                <ele>423.60000</ele>
+            </trkpt>
+            <trkpt lat="47.798490" lon="13.043060">
+                <ele>423.70000</ele>
+            </trkpt>
+            <trkpt lat="47.798835" lon="13.043290">
+                <ele>423.50000</ele>
+            </trkpt>
+            <trkpt lat="47.799180" lon="13.043520">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799420" lon="13.043690">
+                <ele>422.60000</ele>
+            </trkpt>
+            <trkpt lat="47.799451" lon="13.043196">
+                <ele>422.70000</ele>
+            </trkpt>
+            <trkpt lat="47.799420" lon="13.043690">
+                <ele>422.60000</ele>
+            </trkpt>
+            <trkpt lat="47.799420" lon="13.043765">
+                <ele>422.70000</ele>
+            </trkpt>
+            <trkpt lat="47.799320" lon="13.044270">
+                <ele>422.90000</ele>
+            </trkpt>
+            <trkpt lat="47.799240" lon="13.044360">
+                <ele>422.90000</ele>
+            </trkpt>
+            <trkpt lat="47.799120" lon="13.044960">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799425" lon="13.045060">
+                <ele>422.80000</ele>
+            </trkpt>
+            <trkpt lat="47.799489" lon="13.045081">
+                <ele>422.70000</ele>
+            </trkpt>
+            <trkpt lat="47.799425" lon="13.045060">
+                <ele>422.80000</ele>
+            </trkpt>
+            <trkpt lat="47.799120" lon="13.044960">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.798950" lon="13.045300">
+                <ele>423.20000</ele>
+            </trkpt>
+            <trkpt lat="47.799130" lon="13.045470">
+                <ele>423.20000</ele>
+            </trkpt>
+            <trkpt lat="47.798950" lon="13.045300">
+                <ele>423.20000</ele>
+            </trkpt>
+            <trkpt lat="47.798870" lon="13.045530">
+                <ele>423.30000</ele>
+            </trkpt>
+            <trkpt lat="47.798800" lon="13.045880">
+                <ele>423.50000</ele>
+            </trkpt>
+            <trkpt lat="47.798780" lon="13.046010">
+                <ele>423.60000</ele>
+            </trkpt>
+            <trkpt lat="47.798760" lon="13.046375">
+                <ele>423.80000</ele>
+            </trkpt>
+            <trkpt lat="47.798740" lon="13.046740">
+                <ele>424.10000</ele>
+            </trkpt>
+            <trkpt lat="47.798738" lon="13.046759">
+                <ele>424.10000</ele>
+            </trkpt>
+            <trkpt lat="47.798740" lon="13.046740">
+                <ele>424.10000</ele>
+            </trkpt>
+            <trkpt lat="47.798960" lon="13.046760">
+                <ele>424.50000</ele>
+            </trkpt>
+            <trkpt lat="47.799150" lon="13.046710">
+                <ele>424.0</ele>
+            </trkpt>
+            <trkpt lat="47.799240" lon="13.046680">
+                <ele>423.80000</ele>
+            </trkpt>
+            <trkpt lat="47.799530" lon="13.046590">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799551" lon="13.046567">
+                <ele>423.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799690" lon="13.046410">
+                <ele>423.20000</ele>
+            </trkpt>
+            <trkpt lat="47.799770" lon="13.046220">
+                <ele>423.0</ele>
+            </trkpt>
+            <trkpt lat="47.799850" lon="13.045990">
+                <ele>422.50000</ele>
+            </trkpt>
+            <trkpt lat="47.799900" lon="13.045740">
+                <ele>422.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799970" lon="13.045320">
+                <ele>421.30000</ele>
+            </trkpt>
+            <trkpt lat="47.799979" lon="13.045226">
+                <ele>421.10000</ele>
+            </trkpt>
+            <trkpt lat="47.799980" lon="13.045210">
+                <ele>421.0</ele>
+            </trkpt>
+            <trkpt lat="47.799990" lon="13.045100">
+                <ele>420.90000</ele>
+            </trkpt>
+            <trkpt lat="47.800020" lon="13.044630">
+                <ele>420.80000</ele>
+            </trkpt>
+            <trkpt lat="47.800040" lon="13.044370">
+                <ele>420.90000</ele>
+            </trkpt>
+            <trkpt lat="47.800060" lon="13.043930">
+                <ele>421.40000</ele>
+            </trkpt>
+            <trkpt lat="47.800069" lon="13.043734">
+                <ele>421.30000</ele>
+            </trkpt>
+            <trkpt lat="47.800079" lon="13.043508">
+                <ele>421.30000</ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
