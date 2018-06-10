@@ -60,9 +60,9 @@ let innsbruckMarker = L.marker (innsbruck, {icon: cityicon}, {title: "Innsbruck"
 innsbruckMarker.bindPopup('<h3>Innsbruck</h3><a href = "innsbruck/innsbruck.html">Zur Seite</a>');
 
 let salzburgMarker = L.marker (salzburg, {icon: cityicon}, {title: "Salzburg"}).addTo(markerGroup)
-salzburgMarker.bindPopup('<h3>Salzburg</h3><a href = "salzburg/salzburg.html">Zur Seite</a>');
+salzburgMarker.bindPopup('<h3>Salzburg</h3><a href = "salzburg.html">Zur Seite</a>');
 
 let grazMarker = L.marker (graz, {icon: cityicon}, {title: "Graz"}).addTo(markerGroup)
-grazMarker.bindPopup('<h3>Graz</h3><a href = "graz/graz.html">Zur Seite</a>');
+grazMarker.bindPopup('<h3>Graz</h3><a href = "graz.html">Zur Seite</a>');
 
 myMap.fitBounds(markerGroup.getBounds());

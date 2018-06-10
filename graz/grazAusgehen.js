@@ -1,4 +1,4 @@
-let grazUni = [
+let grazAusgehen = [
 {"lat":"47.072285","lng":"15.447652","name":"Cohibar"},
 {"lat":"47.074694","lng":"15.45157","name":"Kulturhauskeller - Kultus"},
 {"lat":"47.074685","lng":"15.451762","name":"Café Bar Orange"},

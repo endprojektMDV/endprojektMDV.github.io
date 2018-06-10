@@ -83,6 +83,14 @@ body {
     border: 1px solid gray;
 }
 
+#map1, #map2 {
+    width: 49.5%;
+    height: 100%;
+  }
+  
+  #map1 { float: left; }
+  #map2 { float: right; }
+
 #footer {
     width: 100%;
     padding: 1em 0 3em 0;
