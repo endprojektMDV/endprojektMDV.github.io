@@ -57,12 +57,12 @@ const cityicon = L.icon ({
 myMap.addLayer(markerGroup);
 
 let innsbruckMarker = L.marker (innsbruck, {icon: cityicon}, {title: "Innsbruck"}).addTo(markerGroup)
-innsbruckMarker.bindPopup('<h3>Innsbruck</h3><a href = "innsbruck.html">Zur Seite</a>');
+innsbruckMarker.bindPopup('<img src="images/ibk_logo.jpg" alt="Innsbruck Logo"><center> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "innsbruck.html">Zur Seite</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center>');
 
 let salzburgMarker = L.marker (salzburg, {icon: cityicon}, {title: "Salzburg"}).addTo(markerGroup)
-salzburgMarker.bindPopup('<h3>Salzburg</h3><a href = "salzburg.html">Zur Seite</a>');
+salzburgMarker.bindPopup('<img src="images/sbg_logo.png" alt="Salzburg Logo"><center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "salzburg.html">Zur Seite</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center>');
 
 let grazMarker = L.marker (graz, {icon: cityicon}, {title: "Graz"}).addTo(markerGroup)
-grazMarker.bindPopup('<h3>Graz</h3><a href = "graz.html">Zur Seite</a>');
+grazMarker.bindPopup('<img src="images/graz_logo.jpg" alt="Innsbruck Logo"><center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "graz.html">Zur Seite</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center>');
 
 myMap.fitBounds(markerGroup.getBounds());
