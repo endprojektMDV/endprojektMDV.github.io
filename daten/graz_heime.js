@@ -1,4 +1,4 @@
-let grazWohnheime = [
+let grazheime = [
     {"lat":"47.0675707","lng":"15.4373749","name":"home4students Neutorgasse"},
     {"lat":"47.0763629","lng":"15.4509856","name":"home4students Leechgasse"},
     {"lat":"47.0762594","lng":"15.4532575000001","name":"Studentenheim des Afro Asiatischen Instituts"},

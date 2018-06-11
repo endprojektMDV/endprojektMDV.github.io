@@ -30,9 +30,7 @@ myMap.addLayer(myLayers.geolandbasemap);
 
 let myMapControl = L.control.layers({  
     "Openstreetmap" : myLayers.osm,
-    "Basemap.at" : myLayers.geolandbasemap,
-    
-    
+    "Basemap.at" : myLayers.geolandbasemap,   
 },{
    "Studentenheime" :  heime,
    "Bars & Ausgehmöglichkeiten" :  lokale,
@@ -43,12 +41,9 @@ let myMapControl = L.control.layers({
 }
 );
 
-
-
 myMap.addControl (myMapControl); 
 
 
-myMap.setView([47.267,11.383], 11); 
 
 L.control.scale( 
 {imperial: false, 
@@ -71,7 +66,7 @@ L.geoJSON(studentenheime, {
    }
 }).addTo(heime).bindPopup(function(layer) {
        
-        const props = layer.feature.properties
+    const props = layer.feature.properties
         const popupText = `<h3>${props.Name}</h3>`;
         return popupText;
         });
@@ -139,3 +134,4 @@ let geoJsonLayer = L.geoJSON(sportanlagen,  {
 
 sport.addLayer(geoJsonLayer);
 
+myMap.fitBounds(heime.getBounds())

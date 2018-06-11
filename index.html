@@ -6,64 +6,78 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Universitätsstädte in Österreich</title>
-
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-
+    
+    <!-- leaflet -->
+    
     <link rel="stylesheet" href="js/leaflet/leaflet.css" />
     <script src="js/leaflet/leaflet.js"></script>
+
+     <!-- fullscreen -->
 
     <link rel="stylesheet" href="js/fullscreen/dist/leaflet.fullscreen.css" rel='stylesheet' />
     <script src="js/fullscreen/dist/Leaflet.fullscreen.min.js"></script>
 
-    <link rel="stylesheet" href="js/marker.cluster/MarkerCluster.css" />
-    <link rel="stylesheet" href="js/marker.cluster/MarkerCluster.Default.css" />
-    <script src="js/marker.cluster/leaflet.markercluster-src.js"></script>
-
+    <!-- map js  -->
+    
     <script defer src="indexmap.js"></script>
 
-    <script src="innsbruck/daten/studentenheime.js"></script>
-    <script src="innsbruck/daten/studentenlokale.js"></script>
-    <script src="innsbruck/daten/unistandorte.js"></script>
-    <script src="innsbruck/daten/sport.js"></script>
+    <!-- css, font & jquery  -->
 
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
     <link rel="stylesheet" href="styles.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/banner.js"></script>
    
 </head>
 
 <body>
-    
-<div id="header">
-        <h2 class="white">Universitätsstädte in Österreich</h2>
-        <h3 class="white">Innsbruck - Salzburg - Graz</h3>
-    </div>
+        <br>
 
-    <div class="navigation">
-        <ul>
-        
-            <li><a href="index.html" class="active">Home</a></li>
-            <li><a href="innsbruck/innsbruck.html">Innsbruck</a></li>
-            <li><a href="salzburg.html">Salzburg</a></li>
-            <li><a href="graz.html">Graz</a></li>
-        
-        </ul>
-    </div>
-    
-    <div class="article">
+        <div class="navigation">
+           <ul>
+              <li><a href="index.html" class="active">Home</a></li>
+              <li><a href="innsbruck.html">Innsbruck</a></li>
+              <li><a href="salzburg.html">Salzburg</a></li>
+              <li><a href="graz.html">Graz</a></li>
+           </ul>
+        </div>
+
+        <figure id="slideshow">
+           <img src="images/header.jpg" alt="" />
+           <img src="images/header2.jpg" alt="" />
+           <img src="images/header3.jpg" alt="" />
+        </figure>
+
+        <br>
+
+        <div class="article">
+
         <h1>Ein Vergleich</h1>
 
-        <p>xxx</p>
+        <br>
 
-        <div id="map"></div>
+        <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text TextText Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text  Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text </p>
+        
+        <br>
 
-        <h2>Kontakt</h2>
-        <ul>
-            <li><a href="mailto:michaela.seewald@student.uibk.ac.at">Michaela Seewald</a></li>
-            <li><a href="mailto:daniel.suttor@student.uibk.ac.at">Daniel Suttor</a></li>
-            <li><a href="mailto:valerie.oswald@student.uibk.ac.at">Valerie Oswald</a></li>
-            <li><a href="https://endprojektMDV.github.io/index.html">https://endprojektMDV.github.io</a></li>
-        </ul>
+        <div id="map" style="width:1140px;height:600px;" ></div>
 
-    </div>
+        <br>
+        
+        <center>
+           <div class="list">
+              <ul>
+                 <li><a href="mailto:michaela.seewald@student.uibk.ac.at">Michaela Seewald</a></li>
+                 <li><a href="mailto:daniel.suttor@student.uibk.ac.at">Daniel Suttor</a></li>
+                 <li><a href="mailto:valerie.oswald@student.uibk.ac.at">Valerie Oswald</a></li>
+                 <li><a target="_blank" href="https://github.com/endprojektMDV">https://endprojektMDV.github.io</a></li>
+              </ul>
+        </center>
+        </div>
 
-</body>
-</html>
+        <br>
+        <br>
+        
+     </body>
+     </html>
+  

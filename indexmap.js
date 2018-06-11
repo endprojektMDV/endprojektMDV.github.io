@@ -57,7 +57,7 @@ const cityicon = L.icon ({
 myMap.addLayer(markerGroup);
 
 let innsbruckMarker = L.marker (innsbruck, {icon: cityicon}, {title: "Innsbruck"}).addTo(markerGroup)
-innsbruckMarker.bindPopup('<h3>Innsbruck</h3><a href = "innsbruck/innsbruck.html">Zur Seite</a>');
+innsbruckMarker.bindPopup('<h3>Innsbruck</h3><a href = "innsbruck.html">Zur Seite</a>');
 
 let salzburgMarker = L.marker (salzburg, {icon: cityicon}, {title: "Salzburg"}).addTo(markerGroup)
 salzburgMarker.bindPopup('<h3>Salzburg</h3><a href = "salzburg.html">Zur Seite</a>');

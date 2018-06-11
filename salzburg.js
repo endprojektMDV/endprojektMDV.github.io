@@ -60,7 +60,7 @@ const ausgehenicon = L.icon ({
     popupAnchor: [1,-30],
 })
 
-for(const entry of grazAusgehen) {
+for(const entry of salzburgAusgehen) {
     const latlng = [entry.lat, entry.lng]
     L.marker(latlng, {icon: ausgehenicon}).addTo(ausgehenGroup).bindPopup(`<h3>${entry.name}</h3>`)
 }
@@ -71,7 +71,7 @@ const heimeicon = L.icon ({
     popupAnchor: [1,-30],
 })
 
-for(const entry of grazheime) {
+for(const entry of salzburgWohnheime) {
     const latlng = [entry.lat, entry.lng]
     L.marker(latlng, {icon: heimeicon}).addTo(heimeGroup).bindPopup(`<h3>${entry.name}</h3>`)
 }
@@ -82,7 +82,7 @@ const uniicon = L.icon ({
     popupAnchor: [1,-30],
 })
 
-for(const entry of grazUni) {
+for(const entry of salzburgUni) {
     const latlng = [entry.lat, entry.lng]
     L.marker(latlng, {icon: uniicon}).addTo(uniGroup).bindPopup(`<h3>${entry.name}</h3>`)
 }
