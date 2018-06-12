@@ -128,3 +128,28 @@ a:link, a:visited {
     padding: 0px 10px;
     font-style: italic;
 }
+
+.article ul {
+    list-style-type: none;
+    
+}
+
+.article li::before {
+    content: "⏺";
+    margin-right: 0.8em;
+    position: relative;
+    top: -0.30em;
+    font-size: 7px;   
+}
+
+.article li {
+    margin: 3px; 
+}
+
+.auswahl p {
+    margin: 8px
+}
+
+.auswahl summary {
+    margin: 5px
+}
