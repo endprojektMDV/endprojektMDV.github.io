@@ -12,7 +12,7 @@ const studentenlokale = {
                 ]
             },
             "properties": {
-                "name": "Cafe Bar Moustache",
+                "name": "&nbsp;&nbsp;&nbsp;Cafe Bar Moustache&nbsp;&nbsp;&nbsp;",
                 "bild": "https://www.innsbruck.info/emobilder/x/12764/moustache-2.jpg",
                 "styleUrl": "#icon-1899-0288D1-nodesc",
                 "styleHash": "-258dc051",
@@ -34,7 +34,7 @@ const studentenlokale = {
                 ]
             },
             "properties": {
-                "name": "Little Rock",
+                "name": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Little Rock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
                 "bild": "https://www.innsbruck.info/emobilder/x/32994/bar.jpg",
                 "styleUrl": "#icon-1899-0288D1-nodesc",
                 "styleHash": "-258dc051",
@@ -56,7 +56,7 @@ const studentenlokale = {
                 ]
             },
             "properties": {
-                "name": "Café Bar Dinzler",
+                "name": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Café Bar Dinzler&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
                 "bild": "https://www.innsbruck.info/emobilder/1000cx550c/13238/Bild_01.jpg",
                 "styleUrl": "#icon-1899-0288D1-nodesc",
                 "styleHash": "-258dc051",
@@ -100,7 +100,7 @@ const studentenlokale = {
                 ]
             },
             "properties": {
-                "name": "Jellyfish Music.Bar",
+                "name": "&nbsp;&nbsp;&nbsp;Jellyfish Music.Bar&nbsp;&nbsp;&nbsp;",
                 "bild": "https://www.innsbruck.info/emobilder/1000cx550c/23267/Jellyfish-01.jpg",
                 "styleUrl": "#icon-1899-0288D1-nodesc",
                 "styleHash": "-258dc051",
@@ -144,7 +144,7 @@ const studentenlokale = {
                 ]
             },
             "properties": {
-                "name": "Zappa Music Bar",
+                "name": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zappa Music Bar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
                 "bild": "https://media-cdn.tripadvisor.com/media/photo-s/0d/fd/2b/0e/ta-img-20161121-185325.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
@@ -166,7 +166,7 @@ const studentenlokale = {
                 ]
             },
             "properties": {
-                "name": "JIMMY’S INNSBRUCK",
+                "name": "&nbsp;&nbsp;&nbsp;JIMMY’S INNSBRUCK&nbsp;&nbsp;&nbsp;",
                 "bild": "https://www.innsbruck.info/emobilder/1000cx550c/32820/jimmys.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
@@ -188,7 +188,7 @@ const studentenlokale = {
                 ]
             },
             "properties": {
-                "name": "La Copa – La Cabana",
+                "name": "&nbsp;&nbsp;&nbsp;La Copa – La Cabana&nbsp;&nbsp;&nbsp;",
                 "bild": "https://www.innsbruck.info/emobilder/1000cx550c/11846/copa-cabana.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
@@ -210,7 +210,7 @@ const studentenlokale = {
                 ]
             },
             "properties": {
-                "name": "Tante Emma Club",
+                "name": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tante Emma Club&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
                 "bild": "https://www.innsbruck.info/emobilder/1000cx550c/16909/Tante-Emma.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
@@ -232,7 +232,7 @@ const studentenlokale = {
                 ]
             },
             "properties": {
-                "name": "p.m.k.",
+                "name": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p.m.k.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
                 "bild": "http://pmk.or.at/files/imagecache/Vorschau256/pictures/outside1.jpg",
                 "styleUrl": "#icon-1899-C2185B-nodesc",
                 "styleHash": "49dcf027",
