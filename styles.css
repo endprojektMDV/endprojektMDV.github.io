@@ -135,11 +135,12 @@ a:link, a:visited {
 }
 
 .article li::before {
-    content: "⏺";
+    content: "●";
+    color: #000000;
     margin-right: 0.8em;
     position: relative;
-    top: -0.30em;
-    font-size: 7px;   
+    top: -0.20em;
+    font-size: 10px;   
 }
 
 .article li {
